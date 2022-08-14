@@ -1,11 +1,9 @@
-### Olá! Meu nome é Pamella. Seja bem-vindo(a)! 👋
-
+## Olá! Eu sou a Pamella, professora de programação e desenvolvedora Front-End 💻
 
 - 🔭 Atualmente trabalho em parceria com a empresa BYJU'S Future School, na qual ensino programação para alunos de 12 a 17 anos, com foco em linguagens como Javascript, Python, SQL, entre outras, além de projetos estruturados a partir de frameworks, seja para criação de jogos (bibliotecas p5.js e Matter.js) ou aplicativos (React Native, com execução por meio do Node.js).
-- 🌱 Tenho estudado Java para construir o front-end de um sistema desktop, conectando-o com o banco de dados MySQL responsável pelo back-end do projeto. Além disso, estou aprendendo sobre Docker ao construir dois bancos de dados MySQL em containers (arquitetura de microsserviços), em que cada database será integrado a um servidor web diferente (Node.js e Apache Tomcat), a fim de se executar um aplicativo de ecommerce.
+- 🌱 Tenho estudado Java para construir o Front-End de um sistema desktop, conectando-o com o banco de dados MySQL responsável pelo Back-End do projeto. Além disso, estou aprendendo sobre Docker ao construir dois bancos de dados MySQL em containers (arquitetura de microsserviços), em que cada database será integrado a um servidor web diferente (Node.js e Apache Tomcat), a fim de se executar um aplicativo de ecommerce.
 - 📫 Contate-me no e-mail: pamellapereto@gmail.com
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -35,4 +33,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
