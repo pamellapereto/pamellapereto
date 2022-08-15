@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Pamella, professora de programação e desenvolvedora Front-End ✨
 <br/>
 
-- 💻 Atualmente trabalho em parceria com a empresa BYJU'S Future School, na qual ensino programação para alunos de 12 a 17 anos, com foco em linguagens como Javascript, Python, SQL, entre outras, além de projetos estruturados a partir de frameworks, seja para criação de jogos (bibliotecas p5.js e Matter.js) ou aplicativos (React Native, com execução por meio do Node.js).
+- 💻 Atualmente trabalho em parceria com a empresa BYJU'S Future School, na qual ensino programação para alunos de 12 a 17 anos, com foco em linguagens como Javascript, Python, SQL, entre outras, além de projetos estruturados a partir de frameworks, seja para criação de jogos ou aplicativos.
 - 📚 Tenho estudado Java para construir o Front-End de um sistema desktop, conectando-o com o banco de dados MySQL responsável pelo Back-End do projeto. Além disso, estou aprendendo sobre arquitetura de microsserviços para aplicação web utilizando o Docker.
 - 📫 Contate-me no e-mail: pamellapereto@gmail.com
 
