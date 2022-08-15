@@ -1,4 +1,4 @@
-## Olá! Eu sou a Pamella, professora de programação e desenvolvedora Front-End ✨
+## Olá! Eu sou a Pamella, professora de programação e desenvolvedora Front-End.
 <br/>
 
 - 💻 Atualmente trabalho em parceria com a empresa BYJU'S Future School, na qual ensino programação para alunos de 12 a 17 anos, com foco em linguagens como Javascript, Python, SQL, entre outras, além de projetos estruturados a partir de frameworks, seja para criação de jogos ou aplicativos.
