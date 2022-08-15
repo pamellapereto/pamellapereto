@@ -17,12 +17,13 @@
     <a href="https://github.com/pamellapereto"><img alt="React" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>⠀
     <a href="https://github.com/pamellapereto"><img alt="Python" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>⠀
     <a href="https://github.com/pamellapereto"><img alt="Java" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>⠀
-    <a href="https://github.com/pamellapereto"><img alt="Pamella-MySQL" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>⠀
-    <a href="https://github.com/pamellapereto"><img alt="Pamella-MongoDB" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+    <a href="https://github.com/pamellapereto"><img alt="MySQL" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>⠀
+    <a href="https://github.com/pamellapereto"><img alt="MongoDB" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>⠀
+<a href="https://github.com/pamellapereto"><img alt="Firebase" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></a>
   </div><br/><br/>
   <div>
     <a href = "mailto:pamellapereto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/pamellapereto"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/pamellapereto"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/><br/>
   
 ![Snake animation](https://github.com/pamellapereto/pamellapereto/blob/output/github-contribution-grid-snake.svg)
  
