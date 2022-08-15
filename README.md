@@ -25,5 +25,6 @@
     <a href="https://www.linkedin.com/in/pamellapereto"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
     ![Snake animation](https://github.com/pamellapereto/pamellapereto/blob/output/github-contribution-grid-snake.svg)
+
   </div>
 </div>
