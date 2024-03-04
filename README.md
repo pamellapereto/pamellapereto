@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Pamella, seja bem-vindo(a)!
 <br/>
 
-- 💻 Atualmente trabalho em parceria com a empresa BYJU'S Future School, na qual ensino programação para alunos de 12 a 17 anos, com foco em linguagens como Javascript, Python, SQL, entre outras, além de projetos estruturados a partir de frameworks, seja para criação de jogos ou aplicativos.
-- 📚 Tenho estudado Java para desenvolver o Front-End de uma aplicação para desktop, conectando-a com o banco de dados MySQL responsável pelo Back-End do projeto. Além disso, estou aprendendo sobre arquitetura de microsserviços para aplicação web utilizando o Docker.
+- 💻 Atualmente trabalho no Senac São Paulo, lecionando aulas em seus cursos técnicos e livres, com enfoque em programação front-end e back-end.
+- 📚 Tenho estudado sobre arquitetura de microsserviços para aplicação web utilizando o Docker.
 - 📫 Contate-me no e-mail: pamellapereto@gmail.com
 
 <br/><div align="center">
